@@ -1,9 +1,9 @@
-# Technical-Assignment
+# Technical-Example
 Sentinel-2 Change Analysis
 
 **Candidate:** Gonzalo Sanson  
 **Date:** July 2026  
-**Assessment:** Technical Assignment – Geospatial Analytics
+**Assessment:** Technical Example – Geospatial Analytics
 ---
 ## Approach
 This repository contains a complete geospatial analytics pipeline for detecting land surface changes between two Sentinel-2 images (August 12, 2023 and September 2, 2023) over an open-pit mining area in Zambia.
